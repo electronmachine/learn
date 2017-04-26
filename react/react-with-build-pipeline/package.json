@@ -1,0 +1,15 @@
+{
+  "name": "react-with-build-pipeline",
+  "version": "1.0.0",
+  "description": "learning how to use react and tools",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jaspreet singh",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4"
+  }
+}
