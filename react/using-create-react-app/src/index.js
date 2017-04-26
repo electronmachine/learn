@@ -8,7 +8,9 @@ import './index.css';
 //   document.getElementById('root')
 // );
 
+const template = <h1>Hello World</h1>;
+
 ReactDOM.render(
-    <h1>Hello World</h1>,
+    template,
     document.getElementById('root')
 )
