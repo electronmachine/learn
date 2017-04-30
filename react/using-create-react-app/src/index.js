@@ -3,14 +3,15 @@ import ReactDOM from 'react-dom';
 // import App from './App';
 import './index.css';
 
+import MyApp from './MyApp';
+
 // ReactDOM.render(
 //   <App />,
 //   document.getElementById('root')
 // );
 
-const template = <h1>Hello World</h1>;
 
 ReactDOM.render(
-    template,
+   	<MyApp name="Jaspreet Singh" />,
     document.getElementById('root')
 )
